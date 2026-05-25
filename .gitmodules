@@ -1,0 +1,6 @@
+[submodule "resourcepacks/server_resource_pack"]
+	path = resourcepacks/server_resource_pack
+	url = https://github.com/Lance-Nest/server_resource_pack.git
+[submodule "datapacks/server_data_pack"]
+	path = datapacks/server_data_pack
+	url = https://github.com/Lance-Nest/server_data_pack.git
