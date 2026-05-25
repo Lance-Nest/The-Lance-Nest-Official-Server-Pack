@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"compendium:charred_spruce_log_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:charred_spruce_wood_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:charred_spruce_stripped_wood_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:charred_spruce_small_log_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dawnoftimebuilder:charred_spruce_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:cactus_logs_slab_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:cactus_logs_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:cactus_plank_stairs_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:cinnamon_logs_slab_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:alder_logs_slab_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:cactus_plank_block_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:blackwood_stripped_wood_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:alder_logs_stairs_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"compendium:barn_wood_plank_item"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

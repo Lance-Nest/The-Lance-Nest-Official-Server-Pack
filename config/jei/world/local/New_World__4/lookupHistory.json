@@ -1,0 +1,18 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createaddition:festive_spool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hazennstuff:overgrown_bone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:small_light_connector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:biomass_pellet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:spool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:electrum_amulet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wooden_hoe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:flax"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"brewinandchewin:flaxen_cheese_wedge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hazennstuff:frostbite_birch_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hazennstuff:frostbite_birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hazennstuff:stripped_frostbite_birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:mushroom_stem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:brown_mushroom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:brown_mushroom_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

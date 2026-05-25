@@ -1,0 +1,11 @@
+#Debug
+[debug]
+	#For Developers
+	debug = false
+
+#Tools
+[tools]
+	#How far should the saw search for logs?
+	# Default: 128
+	# Range: > 4
+	sawDistance = 128
