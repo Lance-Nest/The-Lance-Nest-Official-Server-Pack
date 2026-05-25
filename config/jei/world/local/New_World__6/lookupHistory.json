@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"adorablehamsterpets:hamster_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"herios_floral_expansion:chlorophyll_brick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"herios_floral_expansion:chlorophyll_lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"herios_floral_expansion:oak_bonsai"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
