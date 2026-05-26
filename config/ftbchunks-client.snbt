@@ -138,71 +138,71 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"ars_nouveau:starbuncle": true
-			"aquaculture:red_grouper": false
-			"minecraft:bat": true
-			"aquaculture:jellyfish": false
-			"aquaculture:muskellunge": false
-			"crittersandcompanions:leaf_insect": true
-			"aquaculture:gar": false
-			"aquaculture:blackfish": false
-			"minecraft:spider": true
-			"minecraft:zombie": true
-			"cataclysm:amethyst_crab": true
-			"untitledduckmod:goose": true
-			"minecraft:pillager": true
-			"minecraft:skeleton": true
-			"minecraft:squid": true
-			"koopascritters:oceanic_manta_ray": true
+			"cataclysm:the_prowler": true
 			"untitledduckmod:duck": true
-			"minecraft:creeper": true
-			"alshanex_familiars:hunter_pet": true
-			"minecraft:evoker": true
-			"cataclysm:the_harbinger": true
-			"minecraft:villager": true
 			"aquaculture:bluegill": false
-			"aquaculture:smallmouth_bass": false
-			"koopascritters:bush_dog": true
-			"aquaculture:atlantic_herring": false
-			"quark:toretoise": true
-			"minecraft:illusioner": true
-			"minecraft:sheep": true
-			"aquaculture:carp": false
-			"minecraft:glow_squid": true
-			"irons_spellbooks:necromancer": true
+			"aquaculture:perch": false
+			"ars_nouveau:alakarkinos": true
+			"minecraft:iron_golem": true
+			"aquaculture:jellyfish": false
+			"minecraft:cow": true
+			"minecraft:skeleton": true
+			"longwings:moth": true
+			"koopascritters:yangtze_giant_softshell_turtle": true
+			"ars_nouveau:starbuncle": true
+			"cataclysm:amethyst_crab": true
+			"longwings:butterfly": true
+			"minecraft:vindicator": true
 			"koopascritters:burrowing_owl": true
-			"minecraft:turtle": true
-			"crittersandcompanions:otter": true
-			"minecraft:wolf": true
+			"aquaculture:atlantic_cod": false
+			"koopascritters:oceanic_manta_ray": true
+			"cataclysm:the_harbinger": true
+			"quark:toretoise": true
 			"minecraft:slime": true
-			"irons_spellbooks:pyromancer": true
-			"koopascritters:clown_loach": true
+			"crittersandcompanions:otter": true
+			"minecraft:evoker": true
+			"minecraft:creeper": true
+			"koopascritters:dwarf_sperm_whale": true
+			"aquaculture:blackfish": false
+			"minecraft:illusioner": true
+			"artifacts:mimic": true
+			"koopascritters:ocellate_river_ray": true
+			"koopascritters:bush_dog": true
 			"aquaculture:minnow": false
+			"minecraft:chicken": true
+			"minecraft:pig": true
+			"minecraft:wolf": true
+			"koopascritters:clown_loach": true
+			"koopascritters:bonnet_head_shark": true
+			"minecraft:sheep": true
+			"aquaculture:red_grouper": false
+			"aquaculture:carp": false
+			"alshanex_familiars:hunter_pet": true
+			"minecraft:enderman": true
+			"untitledduckmod:goose": true
+			"minecraft:cod": false
+			"irons_spellbooks:pyromancer": true
 			"minecraft:axolotl": true
 			"minecraft:dolphin": true
-			"minecraft:cow": true
-			"koopascritters:ocellate_river_ray": true
-			"longwings:butterfly": true
-			"irons_spellbooks:archevoker": true
-			"aquaculture:atlantic_cod": false
-			"longwings:moth": true
-			"artifacts:mimic": true
-			"herios_floral_expansion:lush_bat": true
-			"aquaculture:brown_trout": false
-			"koopascritters:yangtze_giant_softshell_turtle": true
-			"aquaculture:perch": false
-			"minecraft:iron_golem": true
-			"minecraft:vindicator": true
-			"minecraft:pig": true
-			"minecraft:cave_spider": true
-			"cataclysm:the_prowler": true
-			"minecraft:chicken": true
-			"minecraft:cod": false
-			"koopascritters:dwarf_sperm_whale": true
-			"minecraft:enderman": true
-			"ars_nouveau:alakarkinos": true
+			"minecraft:villager": true
+			"aquaculture:atlantic_herring": false
+			"minecraft:glow_squid": true
+			"minecraft:squid": true
+			"minecraft:pillager": true
+			"aquaculture:gar": false
+			"minecraft:zombie": true
+			"crittersandcompanions:leaf_insect": true
 			"crittersandcompanions:jumping_spider": true
-			"koopascritters:bonnet_head_shark": true
+			"aquaculture:muskellunge": false
+			"aquaculture:brown_trout": false
+			"minecraft:bat": true
+			"irons_spellbooks:archevoker": true
+			"minecraft:spider": true
+			"minecraft:cave_spider": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:turtle": true
+			"aquaculture:smallmouth_bass": false
+			"herios_floral_expansion:lush_bat": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

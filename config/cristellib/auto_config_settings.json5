@@ -14,7 +14,7 @@ The Config for Cristel Lib's automated structure config generation.
 	*/
 	"modOverrideWhitelist": [],
 	// Disable automatic structure config generation.
-	"disableAutoConfig": false,
+	"disableAutoConfig": true,
 	// Disable automatic screen generation for structure configs.
 	"disableAutoConfigScreens": false,
 	// Set the default sub path of all automatically generated configs. Requires a RESTART to apply!
