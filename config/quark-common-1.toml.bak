@@ -1,7 +1,7 @@
 [tweaks]
-	"Double Door Opening" = false
+	"Double Door Opening" = true
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
+	"Automatic Recipe Unlock" = false
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
 	"Compasses Work Everywhere" = true
@@ -43,8 +43,8 @@
 	"Zombie Villagers On Normal" = true
 
 	[tweaks.double_door_opening]
-		"Enable Doors" = false
-		"Enable Fence Gates" = false
+		"Enable Doors" = true
+		"Enable Fence Gates" = true
 		#This feature disables itself if any of the following mods are loaded:
 		# - utilitix
 		#This is done to prevent content overlap.

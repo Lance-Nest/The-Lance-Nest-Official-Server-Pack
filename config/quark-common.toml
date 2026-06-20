@@ -1,7 +1,7 @@
 [tweaks]
-	"Double Door Opening" = false
+	"Double Door Opening" = true
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
+	"Automatic Recipe Unlock" = false
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
 	"Compasses Work Everywhere" = true
@@ -43,8 +43,8 @@
 	"Zombie Villagers On Normal" = true
 
 	[tweaks.double_door_opening]
-		"Enable Doors" = false
-		"Enable Fence Gates" = false
+		"Enable Doors" = true
+		"Enable Fence Gates" = true
 		#This feature disables itself if any of the following mods are loaded:
 		# - utilitix
 		#This is done to prevent content overlap.
@@ -234,7 +234,7 @@
 		#Can you craft four chests at once using logs?
 		"Logs To Chests" = true
 		#Can Coral be crafted into dye?
-		"Coral To Dye" = true
+		"Coral To Dye" = false
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
 		"Bent Recipes" = true
 		#Can Rotten Flesh and Poisonous Potatoes be composted?
@@ -246,7 +246,7 @@
 		#Can bones be smelted down to bone meal?
 		"Bone Meal Utility" = true
 		#Can Charcoal be crafted into Black Dye?
-		"Charcoal To Black Dye" = true
+		"Charcoal To Black Dye" = false
 		#Can two Logs be used instead of a Chest to make a Hopper?
 		"Easy Hopper" = true
 		#Can two Logs be used to craft 16 sticks?
@@ -255,7 +255,7 @@
 		"Smelt Raw Ore Blocks" = true
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -355,7 +355,7 @@
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
 	"Glass Item Frame" = true
-	"Gold Bars" = true
+	"Gold Bars" = false
 	Grate = true
 	Hedges = true
 	"Hollow Logs" = true
@@ -380,8 +380,8 @@
 	"Variant Chests" = true
 	"Variant Furnaces" = true
 	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
 	"Wooden Posts" = true
 	"More Stone Variants" = true
 
@@ -757,7 +757,7 @@
 [world]
 	#(Ashen Trees)
 	"Ancient Wood" = true
-	"Azalea Wood" = true
+	"Azalea Wood" = false
 	"Big Stone Clusters" = true
 	#(Trumpet Trees)
 	"Blossom Trees" = true
@@ -1178,7 +1178,7 @@
 			Dimensions = ["minecraft:the_nether"]
 
 	[world.new_stone_types]
-		"Enable Limestone" = true
+		"Enable Limestone" = false
 		"Enable Jasper" = true
 		"Enable Shale" = true
 		"Enable Myalite" = true
