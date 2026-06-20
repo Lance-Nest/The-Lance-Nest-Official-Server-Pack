@@ -531,5 +531,10 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"utilitarian:rose_soliciting_carpet"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"utilitarian:rose_trapped_soliciting_carpet"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"supplementaries:awning_lavender"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"ars_nouveau:planarium_projector"},"type":"item_stack"}}
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"ars_nouveau:planarium_projector"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"gamediscs:redstone_circuit"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"gamediscs:processor"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"gamediscs:battery"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"gamediscs:display"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"gamediscs:control_pad"},"type":"item_stack"}}
 ]
