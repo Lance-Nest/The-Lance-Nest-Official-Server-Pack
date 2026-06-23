@@ -2,7 +2,7 @@
 	#true by default
 	"Spawn Pronghorn" = true
 	#true by default
-	"Spawn Cinnamon Bears" = true
+	"Spawn Cinnamon Bears" = false
 	#true by default
 	"Spawn Seepers" = true
 	#true by default

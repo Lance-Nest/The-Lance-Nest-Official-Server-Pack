@@ -3,7 +3,7 @@
 	bass_removed = false
 	bear_removed = false
 	bird_removed = false
-	boar_removed = false
+	boar_removed = true
 	butterfly_removed = false
 	catfish_removed = false
 	deer_removed = false
@@ -13,7 +13,7 @@
 	firefly_removed = false
 	forest_fox_removed = false
 	forest_rabbit_removed = false
-	giraffe_removed = false
+	giraffe_removed = true
 	hippo_removed = false
 	lion_removed = false
 	lizard_removed = false
@@ -21,5 +21,5 @@
 	snail_removed = false
 	snake_removed = false
 	tortoise_removed = false
-	vulture_removed = false
+	vulture_removed = true
 	zebra_removed = false
