@@ -579,5 +579,9 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"waystones:magenta_portstone"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"waystones:orange_portstone"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"waystones:white_portstone"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"waystones:warp_plate"},"type":"item_stack"}}
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"waystones:warp_plate"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"spelunkery:diorite_zinc_ore"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"spelunkery:granite_zinc_ore"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"create:deepslate_zinc_ore"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"spelunkery:andesite_zinc_ore"},"type":"item_stack"}}
 ]
