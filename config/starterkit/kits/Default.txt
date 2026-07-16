@@ -9,7 +9,7 @@
 3 : '{count:1,id:"chalk:white_chalk"}',
 4 : '{count:1,id:"naturescompass:naturescompass"}',
 5 : '{count:5,id:"minecraft:bread"}',
-6 : '',
+6 : '{components:{"akashictome:tool_content":[{components:{"akashictome:defined_mod":"adorablehamsterpets","patchouli:book":"adorablehamsterpets:hamster_tips_guide_book"},count:1,id:"adorablehamsterpets:hamster_guide_book"},{components:{"akashictome:defined_mod":"solcarrot"},count:1,id:"solcarrot:food_book"},{components:{"akashictome:defined_mod":"enchanted","modopedia:book":"enchanted:art_of_witchcraft"},count:1,id:"modopedia:book"},{components:{"akashictome:defined_mod":"starcatcher"},count:1,id:"starcatcher:starcatcher_guide"},{components:{"akashictome:defined_mod":"irons_jewelry"},count:1,id:"irons_jewelry:jewelcrafting_guide"},{components:{"akashictome:defined_mod":"apotheosis","patchouli:book":"apotheosis:apoth_chronicle"},count:1,id:"patchouli:guide_book"},{components:{"akashictome:defined_mod":"longwings"},count:1,id:"longwings:butterfly_handbook"},{components:{"akashictome:defined_mod":"silentgear"},count:1,id:"silentgear:material_book"},{components:{"akashictome:defined_mod":"parcool","patchouli:book":"parcool:parcool_guide"},count:1,id:"patchouli:guide_book"},{components:{"akashictome:defined_mod":"moresnifferflowers"},count:1,id:"moresnifferflowers:beroot_cook_book"},{components:{"akashictome:defined_mod":"ars_nouveau"},count:1,id:"ars_nouveau:worn_notebook"}]},count:1,id:"akashictome:tome"}',
 7 : '',
 8 : '',
 9 : '',
