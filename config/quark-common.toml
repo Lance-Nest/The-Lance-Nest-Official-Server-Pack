@@ -1,7 +1,7 @@
 [tweaks]
-	"Double Door Opening" = true
+	"Double Door Opening" = false
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = false
+	"Automatic Recipe Unlock" = true
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
 	"Compasses Work Everywhere" = true
@@ -43,8 +43,8 @@
 	"Zombie Villagers On Normal" = true
 
 	[tweaks.double_door_opening]
-		"Enable Doors" = true
-		"Enable Fence Gates" = true
+		"Enable Doors" = false
+		"Enable Fence Gates" = false
 		#This feature disables itself if any of the following mods are loaded:
 		# - utilitix
 		#This is done to prevent content overlap.
@@ -234,7 +234,7 @@
 		#Can you craft four chests at once using logs?
 		"Logs To Chests" = true
 		#Can Coral be crafted into dye?
-		"Coral To Dye" = false
+		"Coral To Dye" = true
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
 		"Bent Recipes" = true
 		#Can Rotten Flesh and Poisonous Potatoes be composted?
@@ -246,7 +246,7 @@
 		#Can bones be smelted down to bone meal?
 		"Bone Meal Utility" = true
 		#Can Charcoal be crafted into Black Dye?
-		"Charcoal To Black Dye" = false
+		"Charcoal To Black Dye" = true
 		#Can two Logs be used instead of a Chest to make a Hopper?
 		"Easy Hopper" = true
 		#Can two Logs be used to craft 16 sticks?
@@ -255,7 +255,7 @@
 		"Smelt Raw Ore Blocks" = true
 
 [general]
-	"Enable 'q' Button" = false
+	"Enable 'q' Button" = true
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -355,7 +355,7 @@
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
 	"Glass Item Frame" = true
-	"Gold Bars" = false
+	"Gold Bars" = true
 	Grate = true
 	Hedges = true
 	"Hollow Logs" = true
@@ -377,11 +377,11 @@
 	"Sturdy Stone" = true
 	Thatch = true
 	"Variant Bookshelves" = true
-	"Variant Chests" = true
+	"Variant Chests" = false
 	"Variant Furnaces" = true
 	"Variant Ladders" = true
-	"Vertical Planks" = false
-	"Vertical Slabs" = false
+	"Vertical Planks" = true
+	"Vertical Slabs" = true
 	"Wooden Posts" = true
 	"More Stone Variants" = true
 
@@ -1021,7 +1021,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.red]
-			Rarity = 30
+			Rarity = 300
 
 			[world.blossom_trees.red.dimensions]
 				"Is Blacklist" = false
@@ -1178,7 +1178,7 @@
 			Dimensions = ["minecraft:the_nether"]
 
 	[world.new_stone_types]
-		"Enable Limestone" = false
+		"Enable Limestone" = true
 		"Enable Jasper" = true
 		"Enable Shale" = true
 		"Enable Myalite" = true
@@ -1536,7 +1536,7 @@
 	Camera = true
 	"Chest Searching" = true
 	"Elytra Indicator" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
@@ -1567,7 +1567,7 @@
 			B = 0.0
 
 	[client.greener_grass]
-		"Affect Leaves" = true
+		"Affect Leaves" = false
 		"Affect Water" = false
 		"Block List" = ["minecraft:large_fern", "minecraft:tall_grass", "minecraft:grass_block", "minecraft:fern", "minecraft:short_grass", "minecraft:potted_fern", "minecraft:sugar_cane", "environmental:giant_tall_grass", "grassslabs:grass_carpet", "grassslabs:grass_slab", "grassslabs:grass_stairs"]
 		"Leaves List" = ["minecraft:spruce_leaves", "minecraft:birch_leaves", "minecraft:oak_leaves", "minecraft:jungle_leaves", "minecraft:acacia_leaves", "minecraft:dark_oak_leaves", "atmospheric:rosewood_leaves", "atmospheric:morado_leaves", "atmospheric:yucca_leaves", "autumnity:maple_leaves", "environmental:willow_leaves", "environmental:hanging_willow_leaves", "minecraft:vine", "valhelsia_structures:hanging_vines"]

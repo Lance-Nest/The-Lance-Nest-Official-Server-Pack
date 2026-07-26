@@ -2,7 +2,7 @@
     "board": {
         "updateFrequencySecs": 45,
         "villageGenFrequency": 2,
-        "canBreak": true
+        "canBreak": false
     },
     "bounty": {
         "flatBonusTimePerBountyInSecs": 0,
