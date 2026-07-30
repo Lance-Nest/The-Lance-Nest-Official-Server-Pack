@@ -20,6 +20,11 @@
     "result": "deny"
   },
   {
+    "mob": "reanimal:hedgehog",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
     "mob": "youkaisfeasts:deer",
     "when": "onjoin",
     "result": "deny"
