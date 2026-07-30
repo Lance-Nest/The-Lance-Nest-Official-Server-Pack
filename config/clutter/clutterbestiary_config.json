@@ -29,7 +29,7 @@
   },
   "spawn_red_pandas": {
     "comment": "Spawn Red Pandas.",
-    "value": true
+    "value": false
   },
   "spawn_koi": {
     "comment": "Spawn Koi.",
@@ -37,7 +37,7 @@
   },
   "spawn_kiwis": {
     "comment": "Spawn Kiwis.",
-    "value": true
+    "value": false
   },
   "spawn_beavers": {
     "comment": "Spawn Beavers.",
@@ -61,7 +61,7 @@
   },
   "spawn_capybaras": {
     "comment": "Spawn Capybaras.",
-    "value": true
+    "value": false
   },
   "spawn_seahorses": {
     "comment": "Spawn Seahorses.",

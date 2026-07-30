@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "mob": "reanimal:penguin",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "reanimal:hippopotamus",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "mysticsbiomes:red_panda",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "reanimal:red_panda",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "youkaisfeasts:deer",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "the_great_outdoors:cinnamon_bear",
+    "when": "onjoin",
+    "result": "deny"
+  }
+]
