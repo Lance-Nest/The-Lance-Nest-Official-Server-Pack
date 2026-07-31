@@ -681,5 +681,6 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mccoasters:rope_fence_steel_sacramento"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mccoasters:rope_fence_steel_wasabi"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mccoasters:rope_fence_steel_canary"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mccoasters:rope_fence_steel_umber"},"type":"item_stack"}}
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mccoasters:rope_fence_steel_umber"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"naturalist:ostrich_egg"},"type":"item_stack"}}
 ]
