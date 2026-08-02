@@ -15,7 +15,7 @@ hat_blacklist = []
 # or a namespace on its own to exclude every entity from that mod,
 # e.g. "minecraft" blocks all vanilla mobs. Example:
 # ["minecraft:creeper", "minecraft:zombie"].
-disabled_entities = ["windswept", "animal_garden_owll", "herios_floral_expansion", "youkaisfeasts", "spelunkery" "supplementaries", "quark", "ribbits", "longwings", "koopascritters", "barnyardbuddies", "dustydecorations", "the_great_outdoors", "moresnifferflowers", "reanimal", "naturalist", "cnb", "cataclysm", "clutterbestiary", "adorablehamsterpets", "crittersandcompanions", "ars_nouveau", "mysticsbiomes:butterfly", "mysticsbiomes:caterpillar", "minecraft:rabbit"]
+disabled_entities = ["windswept", "animal_garden_owll", "herios_floral_expansion", "youkaisfeasts", "spelunkery" "supplementaries", "quark", "ribbits", "longwings", "koopascritters", "barnyardbuddies", "dustydecorations", "the_great_outdoors", "moresnifferflowers", "reanimal", "naturalist", "cnb", "cataclysm", "clutterbestiary", "adorablehamsterpets", "crittersandcompanions", "ars_nouveau", "mysticsbiomes", "alshanex_familiars", "minecraft:rabbit", "minecraft:villager", "minecraft:allay", "minecraft:armadillo", "minecraft:axolotl", "minecraft:camel", "minecraft:cat", "minecraft:dolphin", "minecraft:donkey", "minecraft:fox", "minecraft:frog", "minecraft:horse", "minecraft:iron_golem", "minecraft:mule", "minecraft:ocelot", "minecraft:panda", "minecraft:parrot", "minecraft:polar_bear", "minecraft:sniffer", "minecraft:turtle", "minecraft:wolf"]
 
 # If true, hats stay visible even when the wearing entity is invisible
 # (invisibility potion, spectator, etc). Default: false.
