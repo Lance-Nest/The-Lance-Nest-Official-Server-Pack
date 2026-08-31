@@ -43,8 +43,8 @@
 	"Zombie Villagers On Normal" = true
 
 	[tweaks.double_door_opening]
-		"Enable Doors" = false
-		"Enable Fence Gates" = false
+		"Enable Doors" = true
+		"Enable Fence Gates" = true
 		#This feature disables itself if any of the following mods are loaded:
 		# - utilitix
 		#This is done to prevent content overlap.
@@ -386,8 +386,8 @@
 	"Variant Chests" = false
 	"Variant Furnaces" = true
 	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
 	"Wooden Posts" = true
 	"More Stone Variants" = true
 
